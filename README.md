@@ -3,8 +3,6 @@
 <br><br>
 🖥 You can check all my projects <a href="https://github.com/TanishaPavecha?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=TanishaPavecha&label=Profile%20views&color=0e75b6&style=flat" alt="TanishaPavecha" /> </span>
-
 
 ## Connect with me
 <p align="left">
