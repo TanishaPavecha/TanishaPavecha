@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tanisha Pavecha </h1>
 🎯A passionate Information and Communication Technology Student @PDEU'25<br><br>💻 I'm skilled in programming with Javascript, Java, C++ and Python. 🚀 Building fullstack webapp is my passion!<br><br> 💻✨I have built several projects using the MERN stack, MySQL, Restful API's and also skilled in using tools like Docker, Git, AWS <br><br>📚 I also have foundational knowledge of DSA, DBMS, CN, OS and OOPS. 🧑‍💻Currently into Fullstack Web Devlopment .<br><br>
 <br><br>
-🖥 You can check all my projects <a href="(https://github.com/TanishaPavecha?tab=repositories)" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
+🖥 You can check all my projects <a href="https://github.com/TanishaPavecha?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=TanishaPavecha&label=Profile%20views&color=0e75b6&style=flat" alt="TanishaPavecha" /> </span>
 
